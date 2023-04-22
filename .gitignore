@@ -1,0 +1,4 @@
+.vscode
+task1/bin/
+task1/obj/
+*.csproj
